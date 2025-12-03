@@ -2,7 +2,7 @@
 #include <vector>
 #include <time.h>
 using namespace std;
-
+////chbaihyfgaiwyevfwgevf
 
 bool isPrimeBase(int n)
 {
